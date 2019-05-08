@@ -1,0 +1,7 @@
+﻿Error:wrong
+#0 {main}
+异常行号：3
+所在文件：E:\Demo\test01\index.php
+
+
+是非得失发生的
